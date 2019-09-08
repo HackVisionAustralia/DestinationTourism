@@ -27,3 +27,7 @@ Public Transport
 https://discover.data.vic.gov.au/dataset/public-transport-a-collection-of-ptv-datasets
 Use a spatial data set for the Ballarat Local Government Area to demonstrate public transport options supportint the Tourism Destination App
 http://services.land.vic.gov.au/catalogue/metadata?anzlicId=ANZVI0803002595&publicId=guest&extractionProviderId=1#tab2 (transport data attributes synopsis)
+
+Content Management System to support POI data loading - Geraldton / Ballarat
+
+Project Kanban screen shot to demonstrate task management
