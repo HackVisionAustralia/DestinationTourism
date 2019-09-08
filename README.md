@@ -39,12 +39,16 @@ URL: https://dev.altus.net.au/TourismCMS_Usr/CMSHome.aspx 
 For the purposes of the POC, the CMS application is secured with username / password and as such the user needs to be logged in:
 
 DestinationTourismGeraldton
+
 URL: https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/MidWest/TourismCMS 
+
 Username: User@Ballarat
 Password: password
 
 DestinationTourismBallarat
+
 URL: https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/Ballarat/TourismCMS 
+
 Username: User@MidWest
 Password: password
 
