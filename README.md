@@ -33,22 +33,35 @@ Content Management System to support POI data loading - Geraldton / Ballarat
 Project Kanban screen shot to demonstrate task management
 
 Source Code:
-For the mobile app POC has anonymous access i.e. no username / password required
-URL: https://dev.altus.net.au/TourismCMS_Usr/CMSHome.aspx 
 
-For the purposes of the POC, the CMS application is secured with username / password and as such the user needs to be logged in:
 
 DestinationTourismGeraldton
 
+For the mobile app POC has anonymous access i.e. no username / password required
+
 URL: https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/MidWest/TourismCMS 
+
+For the purposes of the POC, the CMS application is secured with username / password and as such
+
+the user needs to be logged in:
+
+URL: https://dev.altus.net.au/TourismCMS_Usr/CMSHome.aspx 
 
 Username: Refer email to Jason Weigel at competition@govhack.org
 Password: Refer email to Jason Weigel at competition@govhack.org
 
 DestinationTourismBallarat
 
+For the mobile app POC has anonymous access i.e. no username / password required
+
 URL: https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/Ballarat/TourismCMS 
+
+
+For the purposes of the POC, the CMS application is secured with username / password and as such
+
+the user needs to be logged in:
+
+URL: https://dev.altus.net.au/TourismCMS_Usr/CMSHome.aspx 
 
 Username: Refer email to Jason Weigel at competition@govhack.org
 Password: Refer email to Jason Weigel at competition@govhack.org
-
