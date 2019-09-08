@@ -42,13 +42,13 @@ DestinationTourismGeraldton
 
 URL: https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/MidWest/TourismCMS 
 
-Username: User@Ballarat
-Password: password
+Username: Refer email to Jason Weigel at competition@govhack.org
+Password: Refer email to Jason Weigel at competition@govhack.org
 
 DestinationTourismBallarat
 
 URL: https://dev.altus.net.au/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/Ballarat/TourismCMS 
 
-Username: User@MidWest
-Password: password
+Username: Refer email to Jason Weigel at competition@govhack.org
+Password: Refer email to Jason Weigel at competition@govhack.org
 
