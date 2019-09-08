@@ -31,3 +31,17 @@ http://services.land.vic.gov.au/catalogue/metadata?anzlicId=ANZVI0803002595&publ
 Content Management System to support POI data loading - Geraldton / Ballarat
 
 Project Kanban screen shot to demonstrate task management
+
+Source Code:
+For the mobile app POC has anonymous access i.e. no username / password required
+
+For the purposes of the POC, the CMS application is secured with username / password and as such the user needs to be logged in:
+
+DestinationTourismGeraldton
+Username: User@Ballarat
+Password: password
+
+DestinationTourismBallarat
+Username: User@MidWest
+Password: password
+
